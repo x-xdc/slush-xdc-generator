@@ -1,0 +1,23 @@
+{
+  "name": "slush-xdc-generator",
+  "version": "0.1.5",
+  "description": "xdc generator generator",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "xdc",
+    "slushgenerator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x-xdc/slush-xdc-generator.git"
+  },
+  "author": "czh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/x-xdc/slush-xdc-generator/issues"
+  },
+  "homepage": "https://github.com/x-xdc/slush-xdc-generator#readme"
+}
